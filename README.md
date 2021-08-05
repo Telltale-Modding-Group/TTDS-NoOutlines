@@ -20,6 +20,21 @@ This mod removes outlines, inklines, graduated color filters, and graphic black 
 
 **This mod is compatible with the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher) and can be installed using the tool.**
 
+## Comparison
+
+**Origianl (Without Mod)**
+![off](Screenshots/off.png)
+**Enabled (With Mod)**
+![on](Screenshots/on.png)
+
+## Showcase
+
+![1](Screenshots/1.png)
+![2](Screenshots/2.png)
+![3](Screenshots/3.png)
+![4](Screenshots/4.png)
+![5](Screenshots/5.png)
+
 ## Editing/Modifying
 
 ***For Modders/Developers Only***
@@ -29,18 +44,3 @@ This mod removes outlines, inklines, graduated color filters, and graphic black 
 To Edit/Modify this project, be sure to either download this repository or go to the releases tab and download the "Source code.zip" file. Then extract and open the project using the [Telltale Script Editor](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor) and edit the code as you wish!
 
 NOTE: This project was built using the [Telltale Script Editor Alpha 1.1.0](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor)
-
-## Comparison
-
-**Origianl (Without Mod)**
-![off](screenshots/off.png)
-**Enabled (With Mod)**
-![on](screenshots/on.png)
-
-## Showcase
-
-![1](screenshots/1.png)
-![2](screenshots/2.png)
-![3](screenshots/3.png)
-![4](screenshots/4.png)
-![5](screenshots/5.png)
